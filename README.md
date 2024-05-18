@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve!
-- 👀 I’m interested in work :)
+- 👀 I’m interested in fresh projects
 - 🌱 I’m currently learning Java
 
 <!---
