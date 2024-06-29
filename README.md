@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve!
 - 👀 I’m interested in fresh projects
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Script
 
 <!---
 Steve3560/Steve3560 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
